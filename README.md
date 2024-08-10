@@ -1,8 +1,11 @@
-# React + Vite
+Netflix Clone using React JS and Firebase 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![IMG_3136](https://github.com/user-attachments/assets/05fe8ced-4a85-40fe-8d85-ffc624cd7232)
 
-Currently, two official plugins are available:
+------------------------------------------------------------------------------------------------------------------------------------------------
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![IMG_3139](https://github.com/user-attachments/assets/4c46f101-200e-483f-9fb6-23d9e498e4f9)
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+![IMG_3138](https://github.com/user-attachments/assets/d8cc4bd9-10b2-4a41-bbe6-87a8dbd6b98a)
